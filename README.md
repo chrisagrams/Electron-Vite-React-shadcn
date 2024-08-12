@@ -1,6 +1,6 @@
-# electron-vite-react-shadcn
+# Electron + Vite + React + shadcn Template
 
-An Electron application with React and TypeScript
+An Electron application with Vite, React, TypeScript and the [shadcn/ui](https://ui.shadcn.com/) component library.
 
 ## Recommended IDE Setup
 
